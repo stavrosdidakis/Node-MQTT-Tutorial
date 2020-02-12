@@ -1,7 +1,7 @@
 # Communication System with Node.js and MQTT
 
 ## Introduction
-This tutorial uses **Node.js** and **MQTT** to create a communication system with clients and a main broker. The level is intended for users that have a basic understanding of **JavaScript**, and ideally prior knowledge with Node.js.
+This tutorial uses **Node.js** and **MQTT** to create a communication system with clients and a main broker. The level is intended for users that have a basic understanding of **JavaScript**, and ideally prior knowledge with Node.js. 
 
 ## MQTT Broker Set Up
 **[MQTT](http://mqtt.org/)** is a lightweight communication protocol optimized for **Internet of Things** applications, and it allows the development and control of networks, and interconnected devices. It uses a **publish/subscribe** to topics structure, and it is especially useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium.
