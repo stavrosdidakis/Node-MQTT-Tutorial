@@ -161,4 +161,4 @@ In the receiving client we need to ensure that we use the same process to setup 
 <p align="center">
 <img alt="Terminal" src="assets/terminal.png" width="420" /></p>
 
-There are many more benefits in using MQTT. You will notice here that the speed and quality of service is excellent. In addition, you may include as many clients as needed, by utilizing this simple infrastructure of publishers, subscribers, and channels. For this reason, MQTT is already a solid option in the development of interconnnected system architectures.
+There are many more benefits in using MQTT. You will notice here that the speed and quality of service is excellent. In addition, you may include as many clients as needed by utilizing this simple infrastructure of publishers, subscribers, and channels. For this reason, MQTT is already a solid option in the development of interconnected system architectures.
